@@ -2,5 +2,5 @@ Hello Git !
 Hello Git !
 Hello Git !
 Hello Git ! master update! 
-Hello Git ! hotfix update!
+Hello Git ! 
 Hello Git !
